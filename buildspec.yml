@@ -3,7 +3,7 @@ phases:
   install:
     on-failure: ABORT
     runtime-versions:
-      php: 8.1
+      php: 8.2
   pre_build:
     on-failure: ABORT
     commands:
